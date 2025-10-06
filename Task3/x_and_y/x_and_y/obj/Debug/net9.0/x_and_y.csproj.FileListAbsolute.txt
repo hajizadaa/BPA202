@@ -1,0 +1,14 @@
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/bin/Debug/net9.0/x_and_y
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/bin/Debug/net9.0/x_and_y.deps.json
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/bin/Debug/net9.0/x_and_y.runtimeconfig.json
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/bin/Debug/net9.0/x_and_y.dll
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/bin/Debug/net9.0/x_and_y.pdb
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/obj/Debug/net9.0/x_and_y.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/obj/Debug/net9.0/x_and_y.AssemblyInfoInputs.cache
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/obj/Debug/net9.0/x_and_y.AssemblyInfo.cs
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/obj/Debug/net9.0/x_and_y.csproj.CoreCompileInputs.cache
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/obj/Debug/net9.0/x_and_y.dll
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/obj/Debug/net9.0/refint/x_and_y.dll
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/obj/Debug/net9.0/x_and_y.pdb
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/obj/Debug/net9.0/x_and_y.genruntimeconfig.cache
+/Users/asifhajizade/Desktop/tt/x_and_y/x_and_y/obj/Debug/net9.0/ref/x_and_y.dll
