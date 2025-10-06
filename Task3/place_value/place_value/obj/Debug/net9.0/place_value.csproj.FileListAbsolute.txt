@@ -1,0 +1,14 @@
+/Users/asifhajizade/Desktop/tt/place_value/place_value/obj/Debug/net9.0/place_value.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asifhajizade/Desktop/tt/place_value/place_value/obj/Debug/net9.0/place_value.AssemblyInfoInputs.cache
+/Users/asifhajizade/Desktop/tt/place_value/place_value/obj/Debug/net9.0/place_value.AssemblyInfo.cs
+/Users/asifhajizade/Desktop/tt/place_value/place_value/obj/Debug/net9.0/place_value.csproj.CoreCompileInputs.cache
+/Users/asifhajizade/Desktop/tt/place_value/place_value/bin/Debug/net9.0/place_value
+/Users/asifhajizade/Desktop/tt/place_value/place_value/bin/Debug/net9.0/place_value.deps.json
+/Users/asifhajizade/Desktop/tt/place_value/place_value/bin/Debug/net9.0/place_value.runtimeconfig.json
+/Users/asifhajizade/Desktop/tt/place_value/place_value/bin/Debug/net9.0/place_value.dll
+/Users/asifhajizade/Desktop/tt/place_value/place_value/bin/Debug/net9.0/place_value.pdb
+/Users/asifhajizade/Desktop/tt/place_value/place_value/obj/Debug/net9.0/place_value.dll
+/Users/asifhajizade/Desktop/tt/place_value/place_value/obj/Debug/net9.0/refint/place_value.dll
+/Users/asifhajizade/Desktop/tt/place_value/place_value/obj/Debug/net9.0/place_value.pdb
+/Users/asifhajizade/Desktop/tt/place_value/place_value/obj/Debug/net9.0/place_value.genruntimeconfig.cache
+/Users/asifhajizade/Desktop/tt/place_value/place_value/obj/Debug/net9.0/ref/place_value.dll
