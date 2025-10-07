@@ -1,0 +1,14 @@
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/bin/Debug/net9.0/programme2
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/bin/Debug/net9.0/programme2.deps.json
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/bin/Debug/net9.0/programme2.runtimeconfig.json
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/bin/Debug/net9.0/programme2.dll
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/bin/Debug/net9.0/programme2.pdb
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/obj/Debug/net9.0/programme2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/obj/Debug/net9.0/programme2.AssemblyInfoInputs.cache
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/obj/Debug/net9.0/programme2.AssemblyInfo.cs
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/obj/Debug/net9.0/programme2.csproj.CoreCompileInputs.cache
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/obj/Debug/net9.0/programme2.dll
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/obj/Debug/net9.0/refint/programme2.dll
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/obj/Debug/net9.0/programme2.pdb
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/obj/Debug/net9.0/programme2.genruntimeconfig.cache
+/Users/asifhajizade/Desktop/tt/programme_1/programme2/programme2/obj/Debug/net9.0/ref/programme2.dll
