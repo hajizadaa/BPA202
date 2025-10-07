@@ -1,0 +1,14 @@
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/bin/Debug/net9.0/programme4
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/bin/Debug/net9.0/programme4.deps.json
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/bin/Debug/net9.0/programme4.runtimeconfig.json
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/bin/Debug/net9.0/programme4.dll
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/bin/Debug/net9.0/programme4.pdb
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/obj/Debug/net9.0/programme4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/obj/Debug/net9.0/programme4.AssemblyInfoInputs.cache
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/obj/Debug/net9.0/programme4.AssemblyInfo.cs
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/obj/Debug/net9.0/programme4.csproj.CoreCompileInputs.cache
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/obj/Debug/net9.0/programme4.dll
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/obj/Debug/net9.0/refint/programme4.dll
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/obj/Debug/net9.0/programme4.pdb
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/obj/Debug/net9.0/programme4.genruntimeconfig.cache
+/Users/asifhajizade/Desktop/tt/programme_1/programme4/programme4/obj/Debug/net9.0/ref/programme4.dll
